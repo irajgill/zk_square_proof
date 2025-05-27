@@ -1,0 +1,16 @@
+[package]
+name = "zk_square_proof"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ark-std = "0.4"
+ark-relations = "0.4"
+ark-groth16 = "0.4"
+ark-bn254 = "0.4"
+ark-snark = "0.4"
+rand = "0.8"
+
+
+
+
