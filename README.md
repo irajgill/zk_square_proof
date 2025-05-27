@@ -14,9 +14,13 @@ This project proves knowledge of a secret number `x` such that `x * x = y`, with
 ---
 ### Build and Run
 
+
 git clone https://github.com/irajgill/zk_square_proof.git
+
 cd zk_square_proof
+
 cargo build
+
 cargo run
 
 
